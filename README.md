@@ -1,1 +1,1 @@
-# quiz-espanhol-b-sico-
+# quiz-espanhol-basico-
